@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+  web:
+    build: .
+    environment:
+
+    volumes:
+      - .:/code
+    working_dir: /code
+    ports:
+      - 8000:8000
+    command: python main.py
