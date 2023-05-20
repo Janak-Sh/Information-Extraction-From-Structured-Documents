@@ -90,7 +90,7 @@ DocBite supports various types of document forms, with a specific focus on forms
 
 With its intuitive user interface, DocBite provides a seamless experience for users. Uploading document forms is straightforward, and the extraction process is initiated with a few clicks. Users can choose between JSON and CSV formats for the extracted data, enabling easy integration with existing systems or further analysis using popular tools and platforms.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 ### Built With
 
@@ -99,7 +99,7 @@ With its intuitive user interface, DocBite provides a seamless experience for us
 - [![FastAPI][FastAPI.com]][FastAPI-url]
 - [![MongoDB][MongoDB]][MongoDB-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
 
@@ -139,7 +139,7 @@ _Follow Below Steps for installation_
    python main.py
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- USAGE EXAMPLES -->
 
@@ -168,11 +168,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 **Documents**
 ![Image Description](Screenshots/Documents.png)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- ROADMAP -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CONTRIBUTING -->
 
@@ -194,7 +194,7 @@ Thank you for your interest in contributing to the DocBite project. While contri
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CONTACT -->
 
@@ -202,7 +202,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Janak Sharma- [LinkedIn](https://www.linkedin.com/in/janaksharma/) - janak.sharma2075@gmail.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- ACKNOWLEDGMENTS -->
 <!--
@@ -219,7 +219,7 @@ Use this space to list resources you find helpful and would like to give credit 
 - [Font Awesome](https://fontawesome.com)
 - [React Icons](https://react-icons.github.io/react-icons/search) -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
