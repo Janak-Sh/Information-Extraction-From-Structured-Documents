@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Frontend/src/logo.svg" alt="Logo" width="80" height="80">
+    <img src="Screenshots/docbite.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">DocBite</h3>
@@ -198,6 +198,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Janak Sharma- [LinkedIn](https://www.linkedin.com/in/janaksharma/) - janak.sharma2075@gmail.com
+
+Bishal Bashyal- [LinkedIn](https://www.linkedin.com/in/bishal-bashyal-80a261184/) - bishyalbashyal33@gmail.com
+
+Adithya Pokhrel- [LinkedIn](https://www.linkedin.com/in/adi13579/) - 075BCT009.adithya@pcampus.edu.np
+
+Aayush Shah Kanu- [LinkedIn](https://www.linkedin.com/in/aayush-shah-kanu-3b04401a2/) - 075BCT007.aayush@pcampus.edu.np
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
