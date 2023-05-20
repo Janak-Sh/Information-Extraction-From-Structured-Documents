@@ -124,9 +124,7 @@ _Follow Below Steps for installation_
    npm start
    ```
 4. Go to `Backend` directory
-   ```python
-   const API_KEY = "ENTER YOUR API";
-   ```
+
 5. Use Virtual environment of your choice(We used venv)
 6. Copy `.env` file
 7. Install requirements
