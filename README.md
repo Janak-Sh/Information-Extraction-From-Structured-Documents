@@ -41,7 +41,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Video Demo</a>
+    <a href="https://youtu.be/W7gtxH9Uri0">View Video Demo</a>
     ·
     <a href="https://github.com/Janaksharma2055">Report Bug</a>
     ·
