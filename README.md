@@ -132,7 +132,6 @@ _Follow Below Steps for installation_
    python requirements.py i
    ```
 8. Start backend Server
-9. Go to `Backend` directory
    ```python
    python main.py
    ```
